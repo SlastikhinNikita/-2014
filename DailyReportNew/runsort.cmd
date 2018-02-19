@@ -1,0 +1,3 @@
+@echo Running Sorter...
+@lua sorter.lua
+@pause
